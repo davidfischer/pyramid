@@ -169,6 +169,8 @@ html_title = 'The Pyramid Web Framework v%s' % release
 # using the given strftime format.
 html_last_updated_fmt = '%b %d, %Y'
 
+html_sidebars = { '**': ['localtoc.html', 'ethicalads.html', 'relations.html', 'sourcelink.html', 'searchbox.html'] }
+
 # Do not use smart quotes.
 smartquotes = False
 
